@@ -4,5 +4,6 @@ RUN mkdir /workfile
 WORKDIR /workfile
 COPY . /workfile/
 RUN python --version
+RUN python -m venv myenv
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt

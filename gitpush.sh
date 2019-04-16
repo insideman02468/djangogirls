@@ -6,5 +6,5 @@ git remote add origin https://github.com/insideman02468/djangogirls.git
 git status
 git checkout work
 git add --all
-git commit -m "Modified templates to display posts from database."
+git commit -m "Finish CSS decoration!"
 git push origin work
