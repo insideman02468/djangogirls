@@ -6,5 +6,5 @@ git remote add origin https://github.com/insideman02468/djangogirls.git
 git status
 git checkout work
 git add --all
-git commit -m "Finish extend templete1!"
+git commit -m "Finish djangogirls tutorial!!!"
 git push origin work
