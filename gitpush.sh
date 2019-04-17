@@ -6,5 +6,5 @@ git remote add origin https://github.com/insideman02468/djangogirls.git
 git status
 git checkout heroku
 git add --all
-git commit -m "heroku: First commit!"
+git commit -m "additional files and changes for Heroku"
 git push origin heroku
