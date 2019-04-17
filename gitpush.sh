@@ -7,4 +7,4 @@ git status
 git checkout secure_your_website
 git add --all
 git commit -m "First commit Homework: secure your website!"
-git push origin checkout secure_your_website
+git push origin secure_your_website
