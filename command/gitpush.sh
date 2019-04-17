@@ -6,5 +6,5 @@ git remote add origin https://github.com/insideman02468/djangogirls.git
 git status
 git checkout master
 git add --all
-git commit -m "Trying deploy"
+git commit -m "Trying deploy2"
 git push origin master
